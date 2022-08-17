@@ -11,7 +11,7 @@ The purpose of this project was to create an automated pipeline that executes th
 
 ## Resources
 * Languages: Python with multiple libraries, SQL
-* Platforms: Jupyter Notebook, via Anaconda and PostgreSQL via pgAdmin
+* Platforms: Jupyter Notebook via Anaconda and PostgreSQL via pgAdmin
 * Data Sources: .json and .csv files
 
 ## Summary of Results
